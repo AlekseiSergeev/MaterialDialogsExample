@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Material Dialogs Example</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="error_dialog">error dialog</string>
+    <string name="success_dialog">success dialog</string>
+    <string name="error_toast">error toast</string>
+    <string name="success_toast">success toast</string>
+    <string name="text_error">Error</string>
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_yes">yes</string>
+</resources>
